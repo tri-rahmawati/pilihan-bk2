@@ -1,0 +1,7 @@
+Siswa melakukan instruksi guru dengan sesuai
+Siswa menyelesaikan tugas yang diberikan
+Siswa mengingat materi yang telah lampau (long term memory)
+Siswa memberikan kritik terhadap materi dengan sesuai
+Siswa memberikan saran terhadap materi yang sedang dibahas
+Siswa memberikan komentar terhadap materi dengan sesuai
+Lainnya 
